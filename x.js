@@ -11,3 +11,7 @@ fun2 = (m)=> {
 }
 
 a = "string"
+
+fun3 = (p)=> {
+    console.log(p);
+}
