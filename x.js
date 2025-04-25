@@ -5,3 +5,7 @@ z = 300
 fun = (n)=> {
     console.log(n);
 }
+
+fun2 = (m)=> {
+    console.log(m);
+}
