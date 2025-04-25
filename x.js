@@ -9,3 +9,5 @@ fun = (n)=> {
 fun2 = (m)=> {
     console.log(m);
 }
+
+a = "string"
