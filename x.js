@@ -14,4 +14,5 @@ a = "string"
 
 fun3 = (p)=> {
     console.log(p);
+    console.log("p");
 }
